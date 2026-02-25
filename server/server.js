@@ -12,7 +12,7 @@ await connectDB();
 
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://imagify-ten-pink.vercel.app',
+  'https://imagify-trsy.vercel.app',
 ];
 
 app.use(cors({
